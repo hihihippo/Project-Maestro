@@ -10,6 +10,6 @@ phases:
 
 artifacts:
   files:
-    - '../front-end/*'
+    - '/front-end/*'
   discard-paths: no
   base-directory: build
